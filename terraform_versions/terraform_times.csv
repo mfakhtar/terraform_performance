@@ -1,0 +1,13 @@
+Folder Name,Init Real Time (s),Init User Time (s),Init Sys Time (s),Plan Real Time (s),Plan User Time (s),Plan Sys Time (s),Apply Real Time (s),Apply User Time (s),Apply Sys Time (s),Refresh Real Time (s),Refresh User Time (s),Refresh Sys Time (s)
+resource_block,0m0.611s,0m0.383s,0m0.094s,0m3.881s,0m7.793s,0m2.520s,1m13.852s,1m39.149s,0m11.757s,0m4.711s,0m10.365s,0m3.273s,
+resource_block,0m4.921s,0m0.616s,0m0.356s,0m5.284s,0m6.183s,0m3.872s,1m5.856s,1m29.228s,0m9.832s,0m3.598s,0m5.650s,0m3.611s,
+resource_block,0m0.250s,0m0.067s,0m0.039s,0m1.737s,0m4.690s,0m0.894s,0m46.402s,1m1.450s,0m4.468s,0m1.710s,0m5.597s,0m1.075s,
+resource_block,0m0.667s,0m0.082s,0m0.046s,0m1.792s,0m4.907s,0m0.909s,0m43.130s,0m57.871s,0m4.269s,0m1.710s,0m5.787s,0m1.113s,
+count,0m0.626s,0m0.274s,0m0.093s,0m2.354s,0m5.130s,0m1.716s,0m31.714s,0m40.539s,0m6.785s,0m4.402s,0m9.985s,0m2.572s,
+count,0m1.128s,0m0.489s,0m0.309s,0m2.697s,0m3.175s,0m2.131s,0m30.648s,0m38.426s,0m6.740s,0m3.022s,0m5.063s,0m1.760s,
+count,control,0m0.890s,0m0.202s,0m0.066s,0m1.111s,0m2.877s,0m0.659s,0m20.702s,0m23.226s,0m3.103s,0m1.779s,0m5.695s,0m0.922s,
+count,0m0.250s,0m0.042s,0m0.043s,0m0.933s,0m3.031s,0m0.635s,0m19.416s,0m21.693s,0m3.078s,0m1.785s,0m5.892s,0m0.901s,
+for_each,0m1.601s,0m0.433s,0m0.145s,0m7.768s,0m30.608s,0m2.664s,0m41.505s,1m52.172s,0m9.243s,0m8.660s,0m36.304s,0m3.134s,
+for_each,0m3.163s,0m0.201s,0m0.046s,0m8.009s,0m20.029s,0m3.148s,0m44.065s,1m30.768s,0m9.040s,0m7.198s,0m10.592s,0m2.174s,
+for_each,0m0.186s,0m0.044s,0m0.015s,0m4.604s,0m18.517s,0m1.104s,0m27.157s,0m54.947s,0m4.065s,0m4.687s,0m20.319s,0m1.222s,
+for_each,0m0.204s,0m0.052s,0m0.019s,0m4.726s,0m19.481s,0m1.084s,0m25.979s,0m56.141s,0m4.111s,0m4.714s,0m21.728s,0m1.291s,

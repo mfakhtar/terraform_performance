@@ -1,0 +1,2 @@
+terraform plan  82.26s user 11.04s system 210% cpu 44.422 total
+

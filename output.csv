@@ -1,0 +1,281 @@
+-rw-r--r--  1 mohdfawazakhtar  staff   155B 20 Mar 01:48 ./aws_resource/block_script/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   415K  6 Mar 12:42 ./count/1000res/module/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   271K  5 Mar 13:06 ./count/1000res/output/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   442K  5 Mar 13:39 ./count/1000res/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff    42K  4 Mar 23:07 ./count/100res/module/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff    27K  5 Mar 12:59 ./count/100res/output/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff    44K  5 Mar 13:37 ./count/100res/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   4.3K  4 Mar 23:01 ./count/10res/module/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   3.2K  5 Mar 12:57 ./count/10res/output/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   4.7K  5 Mar 13:36 ./count/10res/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   426K  6 Mar 12:43 ./for_each/1000foreach/module/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   307K  5 Mar 13:34 ./for_each/1000foreach/output/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   459K  5 Mar 13:49 ./for_each/1000foreach/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff    43K  4 Mar 23:13 ./for_each/100foreach/module/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff    31K  5 Mar 13:31 ./for_each/100foreach/output/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff    46K  5 Mar 13:47 ./for_each/100foreach/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   4.4K  4 Mar 23:11 ./for_each/10foreach/module/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   3.5K  5 Mar 13:29 ./for_each/10foreach/output/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   5.0K  5 Mar 13:46 ./for_each/10foreach/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   426K 20 Mar 05:57 ./manual_for_each/1000foreach/module/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   307K 20 Mar 05:57 ./manual_for_each/1000foreach/output/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   459K 22 Mar 00:47 ./manual_for_each/1000foreach/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   344K 20 Mar 05:49 ./manual_for_each/1500/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   869K 22 Mar 01:01 ./manual_for_each/2000/module/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   918K 22 Mar 01:24 ./manual_for_each/2000/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   442K 20 Mar 01:25 ./new_test/count_argument/terraform_code/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   664K 20 Mar 01:26 ./new_test/count_argument/terraform_code/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   886K 20 Mar 01:28 ./new_test/count_argument/terraform_code/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 20 Mar 01:31 ./new_test/count_argument/terraform_code/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 20 Mar 01:35 ./new_test/count_argument/terraform_code/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   775K 19 Mar 23:28 ./new_test/count_argument/terraform_code/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   886K 19 Mar 23:28 ./new_test/count_argument/terraform_code/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   996K 19 Mar 23:28 ./new_test/count_argument/terraform_code/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 19 Mar 23:28 ./new_test/count_argument/terraform_code/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   221K 20 Mar 01:24 ./new_test/count_argument/terraform_code/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   221K 19 Mar 23:28 ./new_test/count_argument/terraform_code3/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   332K 19 Mar 23:28 ./new_test/count_argument/terraform_code3/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   442K 19 Mar 23:28 ./new_test/count_argument/terraform_code3/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   553K 19 Mar 23:28 ./new_test/count_argument/terraform_code3/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   664K 19 Mar 23:28 ./new_test/count_argument/terraform_code3/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   775K 19 Mar 23:28 ./new_test/count_argument/terraform_code3/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   886K 19 Mar 23:28 ./new_test/count_argument/terraform_code3/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   996K 19 Mar 23:28 ./new_test/count_argument/terraform_code3/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 19 Mar 23:28 ./new_test/count_argument/terraform_code3/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   111K 19 Mar 23:28 ./new_test/count_argument/terraform_code3/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   442K 20 Mar 00:21 ./new_test/count_argument/terraform_code_update/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   664K 20 Mar 00:22 ./new_test/count_argument/terraform_code_update/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   885K 20 Mar 00:24 ./new_test/count_argument/terraform_code_update/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 20 Mar 00:27 ./new_test/count_argument/terraform_code_update/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 20 Mar 00:31 ./new_test/count_argument/terraform_code_update/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   775K 19 Mar 23:28 ./new_test/count_argument/terraform_code_update/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   886K 19 Mar 23:28 ./new_test/count_argument/terraform_code_update/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   996K 19 Mar 23:28 ./new_test/count_argument/terraform_code_update/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 19 Mar 23:28 ./new_test/count_argument/terraform_code_update/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   221K 20 Mar 00:20 ./new_test/count_argument/terraform_code_update/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   295K 20 Mar 00:38 ./new_test/for_each/terraform_code copy 3/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   443K 20 Mar 00:38 ./new_test/for_each/terraform_code copy 3/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   591K 20 Mar 00:38 ./new_test/for_each/terraform_code copy 3/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   739K 20 Mar 00:38 ./new_test/for_each/terraform_code copy 3/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   887K 20 Mar 00:38 ./new_test/for_each/terraform_code copy 3/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.0M 20 Mar 00:38 ./new_test/for_each/terraform_code copy 3/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 20 Mar 00:38 ./new_test/for_each/terraform_code copy 3/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 20 Mar 00:38 ./new_test/for_each/terraform_code copy 3/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.4M 20 Mar 00:38 ./new_test/for_each/terraform_code copy 3/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   300K 20 Mar 00:38 ./new_test/for_each/terraform_code copy 3/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.7M 20 Mar 05:32 ./new_test/for_each/terraform_code/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.6M 20 Mar 06:17 ./new_test/for_each/terraform_code/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   3.4M 20 Mar 07:50 ./new_test/for_each/terraform_code/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   4.3M 20 Mar 10:37 ./new_test/for_each/terraform_code/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   5.1M 20 Mar 15:09 ./new_test/for_each/terraform_code/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   155B 20 Mar 05:06 ./new_test/for_each/terraform_code/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   874K 20 Mar 05:16 ./new_test/for_each/terraform_code/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   874K 20 Mar 05:07 ./new_test/for_each/terraform_code_corrected_backup/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 20 Mar 05:07 ./new_test/for_each/terraform_code_corrected_backup/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.7M 20 Mar 05:07 ./new_test/for_each/terraform_code_corrected_backup/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.1M 20 Mar 05:07 ./new_test/for_each/terraform_code_corrected_backup/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.6M 20 Mar 05:07 ./new_test/for_each/terraform_code_corrected_backup/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   155B 20 Mar 05:07 ./new_test/for_each/terraform_code_corrected_backup/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   438K 20 Mar 05:07 ./new_test/for_each/terraform_code_corrected_backup/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   295K 20 Mar 02:40 ./new_test/for_each/terraform_code_manual/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   443K 20 Mar 02:44 ./new_test/for_each/terraform_code_manual/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   591K 20 Mar 02:40 ./new_test/for_each/terraform_code_manual/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   739K 20 Mar 02:40 ./new_test/for_each/terraform_code_manual/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   887K 20 Mar 02:43 ./new_test/for_each/terraform_code_manual/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.0M 20 Mar 02:40 ./new_test/for_each/terraform_code_manual/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 20 Mar 02:40 ./new_test/for_each/terraform_code_manual/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 20 Mar 02:40 ./new_test/for_each/terraform_code_manual/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.4M 20 Mar 02:40 ./new_test/for_each/terraform_code_manual/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   300K 20 Mar 02:40 ./new_test/for_each/terraform_code_manual/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   591K 20 Mar 01:37 ./new_test/for_each/terraform_code_no_refresh/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   887K 20 Mar 01:39 ./new_test/for_each/terraform_code_no_refresh/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 20 Mar 01:41 ./new_test/for_each/terraform_code_no_refresh/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.4M 20 Mar 01:45 ./new_test/for_each/terraform_code_no_refresh/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.7M 20 Mar 01:51 ./new_test/for_each/terraform_code_no_refresh/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.0M 20 Mar 00:38 ./new_test/for_each/terraform_code_no_refresh/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 20 Mar 00:38 ./new_test/for_each/terraform_code_no_refresh/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 20 Mar 00:38 ./new_test/for_each/terraform_code_no_refresh/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.4M 20 Mar 00:38 ./new_test/for_each/terraform_code_no_refresh/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   448K 20 Mar 01:37 ./new_test/for_each/terraform_code_no_refresh/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   874K 20 Mar 05:19 ./new_test/for_each/terraform_code_test/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 20 Mar 03:29 ./new_test/for_each/terraform_code_test/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.7M 20 Mar 03:46 ./new_test/for_each/terraform_code_test/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.1M 20 Mar 04:16 ./new_test/for_each/terraform_code_test/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.6M 20 Mar 05:06 ./new_test/for_each/terraform_code_test/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   155B 20 Mar 05:06 ./new_test/for_each/terraform_code_test/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   874K 20 Mar 05:10 ./new_test/for_each/terraform_code_test/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   591K 20 Mar 00:43 ./new_test/for_each/terraform_code_update/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   887K 20 Mar 00:44 ./new_test/for_each/terraform_code_update/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 20 Mar 00:47 ./new_test/for_each/terraform_code_update/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.4M 20 Mar 00:51 ./new_test/for_each/terraform_code_update/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.7M 20 Mar 00:56 ./new_test/for_each/terraform_code_update/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.0M 20 Mar 00:38 ./new_test/for_each/terraform_code_update/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 20 Mar 00:38 ./new_test/for_each/terraform_code_update/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 20 Mar 00:38 ./new_test/for_each/terraform_code_update/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.4M 20 Mar 00:38 ./new_test/for_each/terraform_code_update/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   448K 20 Mar 00:42 ./new_test/for_each/terraform_code_update/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff    22K 20 Mar 02:50 ./new_test/for_each/test/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   424K 19 Mar 16:50 ./new_test/module_usage/count/terraform_code/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   636K 19 Mar 16:51 ./new_test/module_usage/count/terraform_code/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   848K 19 Mar 16:52 ./new_test/module_usage/count/terraform_code/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.0M 19 Mar 16:54 ./new_test/module_usage/count/terraform_code/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 19 Mar 16:57 ./new_test/module_usage/count/terraform_code/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.5M 19 Mar 17:00 ./new_test/module_usage/count/terraform_code/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.7M 19 Mar 17:05 ./new_test/module_usage/count/terraform_code/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.9M 19 Mar 17:10 ./new_test/module_usage/count/terraform_code/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.1M 19 Mar 17:17 ./new_test/module_usage/count/terraform_code/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   212K 19 Mar 16:50 ./new_test/module_usage/count/terraform_code/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   874K 20 Mar 04:22 ./new_test/module_usage/for_each/terraform_code/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 20 Mar 04:31 ./new_test/module_usage/for_each/terraform_code/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.7M 20 Mar 04:49 ./new_test/module_usage/for_each/terraform_code/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.1M 20 Mar 05:20 ./new_test/module_usage/for_each/terraform_code/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.6M 20 Mar 06:09 ./new_test/module_usage/for_each/terraform_code/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   438K 20 Mar 04:19 ./new_test/module_usage/for_each/terraform_code/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   295K 19 Mar 17:36 ./new_test/module_usage/for_each/terraform_code_backup/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   443K 19 Mar 17:37 ./new_test/module_usage/for_each/terraform_code_backup/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   591K 19 Mar 17:38 ./new_test/module_usage/for_each/terraform_code_backup/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   739K 19 Mar 17:39 ./new_test/module_usage/for_each/terraform_code_backup/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   887K 19 Mar 17:41 ./new_test/module_usage/for_each/terraform_code_backup/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.0M 19 Mar 17:43 ./new_test/module_usage/for_each/terraform_code_backup/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 19 Mar 17:46 ./new_test/module_usage/for_each/terraform_code_backup/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 19 Mar 17:50 ./new_test/module_usage/for_each/terraform_code_backup/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.4M 19 Mar 17:54 ./new_test/module_usage/for_each/terraform_code_backup/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   300K 19 Mar 17:36 ./new_test/module_usage/for_each/terraform_code_backup/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   295K 20 Mar 04:13 ./new_test/module_usage/for_each/terraform_code_copy/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   443K 20 Mar 04:09 ./new_test/module_usage/for_each/terraform_code_copy/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   591K 20 Mar 04:09 ./new_test/module_usage/for_each/terraform_code_copy/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   739K 20 Mar 04:09 ./new_test/module_usage/for_each/terraform_code_copy/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   887K 20 Mar 04:09 ./new_test/module_usage/for_each/terraform_code_copy/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.0M 20 Mar 04:09 ./new_test/module_usage/for_each/terraform_code_copy/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 20 Mar 04:09 ./new_test/module_usage/for_each/terraform_code_copy/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 20 Mar 04:09 ./new_test/module_usage/for_each/terraform_code_copy/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.4M 20 Mar 04:09 ./new_test/module_usage/for_each/terraform_code_copy/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   300K 20 Mar 04:11 ./new_test/module_usage/for_each/terraform_code_copy/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   413K 19 Mar 16:07 ./new_test/module_usage/resource/terraform_code/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   620K 19 Mar 16:08 ./new_test/module_usage/resource/terraform_code/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   827K 19 Mar 16:10 ./new_test/module_usage/resource/terraform_code/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.0M 19 Mar 16:13 ./new_test/module_usage/resource/terraform_code/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 19 Mar 16:16 ./new_test/module_usage/resource/terraform_code/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.4M 19 Mar 16:21 ./new_test/module_usage/resource/terraform_code/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.6M 19 Mar 16:28 ./new_test/module_usage/resource/terraform_code/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.8M 19 Mar 16:36 ./new_test/module_usage/resource/terraform_code/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.0M 19 Mar 16:45 ./new_test/module_usage/resource/terraform_code/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   207K 19 Mar 16:07 ./new_test/module_usage/resource/terraform_code/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   271K 19 Mar 18:45 ./new_test/output_block/count/terraform_code/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   406K 19 Mar 18:45 ./new_test/output_block/count/terraform_code/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   542K 19 Mar 18:46 ./new_test/output_block/count/terraform_code/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   677K 19 Mar 18:47 ./new_test/output_block/count/terraform_code/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   813K 19 Mar 18:48 ./new_test/output_block/count/terraform_code/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   949K 19 Mar 18:50 ./new_test/output_block/count/terraform_code/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 19 Mar 18:52 ./new_test/output_block/count/terraform_code/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 19 Mar 18:54 ./new_test/output_block/count/terraform_code/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 19 Mar 18:57 ./new_test/output_block/count/terraform_code/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   135K 19 Mar 18:44 ./new_test/output_block/count/terraform_code/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   295K 19 Mar 18:58 ./new_test/output_block/for_each/terraform_code/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   443K 19 Mar 18:58 ./new_test/output_block/for_each/terraform_code/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   591K 19 Mar 18:59 ./new_test/output_block/for_each/terraform_code/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   739K 19 Mar 19:01 ./new_test/output_block/for_each/terraform_code/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   887K 19 Mar 19:02 ./new_test/output_block/for_each/terraform_code/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.0M 19 Mar 19:05 ./new_test/output_block/for_each/terraform_code/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 19 Mar 19:07 ./new_test/output_block/for_each/terraform_code/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 19 Mar 19:11 ./new_test/output_block/for_each/terraform_code/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.4M 19 Mar 19:15 ./new_test/output_block/for_each/terraform_code/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   148K 19 Mar 18:57 ./new_test/output_block/for_each/terraform_code/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   466K 19 Mar 18:02 ./new_test/output_block/resource/terraform_code/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   699K 19 Mar 18:03 ./new_test/output_block/resource/terraform_code/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   933K 19 Mar 18:05 ./new_test/output_block/resource/terraform_code/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 19 Mar 18:08 ./new_test/output_block/resource/terraform_code/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.4M 19 Mar 18:12 ./new_test/output_block/resource/terraform_code/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.6M 19 Mar 18:17 ./new_test/output_block/resource/terraform_code/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.8M 19 Mar 18:24 ./new_test/output_block/resource/terraform_code/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.1M 19 Mar 18:33 ./new_test/output_block/resource/terraform_code/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.3M 19 Mar 18:44 ./new_test/output_block/resource/terraform_code/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   233K 19 Mar 18:01 ./new_test/output_block/resource/terraform_code/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   383K 19 Mar 23:50 ./new_test/resource_block/terraform_code copy 4/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   575K 19 Mar 23:50 ./new_test/resource_block/terraform_code copy 4/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   766K 19 Mar 23:50 ./new_test/resource_block/terraform_code copy 4/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   958K 19 Mar 23:50 ./new_test/resource_block/terraform_code copy 4/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 19 Mar 23:50 ./new_test/resource_block/terraform_code copy 4/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 19 Mar 23:50 ./new_test/resource_block/terraform_code copy 4/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.5M 19 Mar 23:50 ./new_test/resource_block/terraform_code copy 4/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.7M 19 Mar 23:50 ./new_test/resource_block/terraform_code copy 4/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.9M 19 Mar 23:50 ./new_test/resource_block/terraform_code copy 4/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   191K 19 Mar 23:50 ./new_test/resource_block/terraform_code copy 4/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   766K 20 Mar 01:03 ./new_test/resource_block/terraform_code/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 20 Mar 01:06 ./new_test/resource_block/terraform_code/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.5M 20 Mar 01:23 ./new_test/resource_block/terraform_code/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.9M 20 Mar 01:15 ./new_test/resource_block/terraform_code/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.2M 20 Mar 01:22 ./new_test/resource_block/terraform_code/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 19 Mar 23:26 ./new_test/resource_block/terraform_code/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.5M 19 Mar 23:26 ./new_test/resource_block/terraform_code/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.7M 19 Mar 23:26 ./new_test/resource_block/terraform_code/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.9M 19 Mar 23:26 ./new_test/resource_block/terraform_code/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   383K 20 Mar 01:02 ./new_test/resource_block/terraform_code/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   766K 19 Mar 23:54 ./new_test/resource_block/terraform_code_update/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 19 Mar 23:56 ./new_test/resource_block/terraform_code_update/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.5M 20 Mar 00:00 ./new_test/resource_block/terraform_code_update/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.9M 20 Mar 00:05 ./new_test/resource_block/terraform_code_update/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.2M 20 Mar 00:13 ./new_test/resource_block/terraform_code_update/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 19 Mar 23:08 ./new_test/resource_block/terraform_code_update/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.5M 19 Mar 23:08 ./new_test/resource_block/terraform_code_update/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.7M 19 Mar 23:08 ./new_test/resource_block/terraform_code_update/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.9M 19 Mar 23:08 ./new_test/resource_block/terraform_code_update/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   383K 19 Mar 23:53 ./new_test/resource_block/terraform_code_update/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   413K  6 Mar 12:46 ./resource/1000count/module/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   466K  5 Mar 12:32 ./resource/1000count/output/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   766K  5 Mar 12:40 ./resource/1000count/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff    41K  4 Mar 22:45 ./resource/100count/module/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff    47K  5 Mar 12:29 ./resource/100count/output/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff    77K  5 Mar 12:38 ./resource/100count/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   4.4K  4 Mar 22:27 ./resource/10count/module/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   4.8K  5 Mar 12:26 ./resource/10count/output/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   7.8K  5 Mar 12:35 ./resource/10count/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   383K 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   575K 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.2M 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/16000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   766K 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   958K 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.3M 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.5M 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.7M 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.9M 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   191K 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.1M 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/5500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.2M 12 Mar 01:07 ./scripts/increase_resources/terraform_code copy/6000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   766K 12 Mar 01:08 ./scripts/increase_resources/terraform_code/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 12 Mar 01:09 ./scripts/increase_resources/terraform_code/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.2M 12 Mar 01:01 ./scripts/increase_resources/terraform_code/16000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.5M 12 Mar 01:11 ./scripts/increase_resources/terraform_code/2000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.9M 12 Mar 01:14 ./scripts/increase_resources/terraform_code/2500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.2M 12 Mar 01:18 ./scripts/increase_resources/terraform_code/3000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.6M 12 Mar 01:23 ./scripts/increase_resources/terraform_code/3500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   3.0M 12 Mar 01:30 ./scripts/increase_resources/terraform_code/4000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   3.4M 12 Mar 01:38 ./scripts/increase_resources/terraform_code/4500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   3.7M 12 Mar 01:49 ./scripts/increase_resources/terraform_code/5000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   383K 12 Mar 01:08 ./scripts/increase_resources/terraform_code/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   4.0M 12 Mar 02:00 ./scripts/increase_resources/terraform_code/5500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   2.2M 12 Mar 01:01 ./scripts/increase_resources/terraform_code/6000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   383K 12 Mar 02:18 ./scripts/parallelism/terraform_code/1000-10resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   383K 12 Mar 02:18 ./scripts/parallelism/terraform_code/1000-20resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   383K 12 Mar 02:18 ./scripts/parallelism/terraform_code/1000-30resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   383K 12 Mar 02:19 ./scripts/parallelism/terraform_code/1000-40resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   383K 12 Mar 02:19 ./scripts/parallelism/terraform_code/1000-50resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   191K 12 Mar 02:17 ./scripts/parallelism/terraform_code/500-10resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   191K 12 Mar 02:17 ./scripts/parallelism/terraform_code/500-20resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   191K 12 Mar 02:17 ./scripts/parallelism/terraform_code/500-30resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   191K 12 Mar 02:17 ./scripts/parallelism/terraform_code/500-40resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   191K 12 Mar 02:17 ./scripts/parallelism/terraform_code/500-50resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 12 Mar 02:47 ./scripts/parallelism/test_para2/terraform_code/3000-10resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 12 Mar 02:49 ./scripts/parallelism/test_para2/terraform_code/3000-20resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 12 Mar 02:50 ./scripts/parallelism/test_para2/terraform_code/3000-30resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 12 Mar 02:52 ./scripts/parallelism/test_para2/terraform_code/3000-40resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.1M 12 Mar 02:54 ./scripts/parallelism/test_para2/terraform_code/3000-50resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.9M 12 Mar 02:50 ./scripts/parallelism/test_parallelism/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   1.2M 22 Mar 01:06 ./scripts/random_for_each/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   3.5K 12 Mar 01:35 ./scripts/randomforeach/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   961B  6 Mar 15:59 ./scripts/test/terraform_code/0resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   383K  6 Mar 16:00 ./scripts/test/terraform_code/1000resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   575K  6 Mar 16:00 ./scripts/test/terraform_code/1500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   191K  6 Mar 15:59 ./scripts/test/terraform_code/500resource/terraform.tfstate
+-rw-r--r--  1 mohdfawazakhtar  staff   191K  6 Mar 16:02 ./scripts/test/terraform_code/resource/terraform.tfstate

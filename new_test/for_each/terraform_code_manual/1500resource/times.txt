@@ -1,0 +1,2 @@
+terraform apply --auto-approve -target random_pet.example  33.16s user 5.99s system 154% cpu 25.345 total
+

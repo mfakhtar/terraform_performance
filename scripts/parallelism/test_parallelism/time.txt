@@ -1,0 +1,15 @@
+terraform plan -parallelism=5  13.53s user 2.68s system 272% cpu 5.953 total
+terraform plan -parallelism=10  13.71s user 2.71s system 298% cpu 5.507 total
+terraform plan -parallelism=20  13.73s user 2.63s system 299% cpu 5.457 total
+terraform plan -parallelism=30  13.94s user 2.52s system 305% cpu 5.394 total
+terraform plan -parallelism=40  13.80s user 2.52s system 299% cpu 5.453 total
+terraform plan -parallelism=50  13.77s user 2.52s system 302% cpu 5.385 total
+terraform plan -parallelism=100  13.79s user 2.36s system 293% cpu 5.507 total
+
+
+terraform apply --auto-approve -parallelism=5  362.37s user 16.94s system 164% cpu 3:50.06 total
+terraform apply --auto-approve -parallelism=20  366.72s user 17.13s system 155% cpu 4:06.26 total
+
+
+
+

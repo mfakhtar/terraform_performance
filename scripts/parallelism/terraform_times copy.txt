@@ -1,0 +1,80 @@
+500-10resource init
+real	0m3.265s
+user	0m0.152s
+sys	0m0.061s
+500-10resource plan -parallelism=10
+real	0m1.000s
+user	0m1.242s
+sys	0m0.315s
+500-10resource apply -parallelism=10
+real	0m4.942s
+user	0m5.635s
+sys	0m0.875s
+500-10resource refresh -parallelism=10
+real	0m0.499s
+user	0m1.574s
+sys	0m0.445s
+500-20resource init
+real	0m0.590s
+user	0m0.166s
+sys	0m0.061s
+500-20resource plan -parallelism=20
+real	0m0.689s
+user	0m1.299s
+sys	0m0.342s
+500-20resource apply -parallelism=20
+real	0m5.272s
+user	0m6.084s
+sys	0m0.900s
+500-20resource refresh -parallelism=20
+real	0m0.489s
+user	0m1.617s
+sys	0m0.446s
+500-30resource init
+real	0m0.762s
+user	0m0.154s
+sys	0m0.062s
+500-30resource plan -parallelism=30
+real	0m0.691s
+user	0m1.290s
+sys	0m0.295s
+500-30resource apply -parallelism=30
+real	0m4.915s
+user	0m5.645s
+sys	0m0.896s
+500-30resource refresh -parallelism=30
+real	0m0.491s
+user	0m1.602s
+sys	0m0.398s
+500-40resource init
+real	0m0.729s
+user	0m0.150s
+sys	0m0.065s
+500-40resource plan -parallelism=40
+real	0m0.694s
+user	0m1.244s
+sys	0m0.268s
+500-40resource apply -parallelism=40
+real	0m5.029s
+user	0m5.891s
+sys	0m0.845s
+500-40resource refresh -parallelism=40
+real	0m0.479s
+user	0m1.619s
+sys	0m0.389s
+500-50resource init
+real	0m0.648s
+user	0m0.139s
+sys	0m0.036s
+500-50resource plan -parallelism=50
+real	0m0.662s
+user	0m1.298s
+sys	0m0.310s
+500-50resource apply -parallelism=50
+real	0m5.052s
+user	0m5.981s
+sys	0m0.818s
+500-50resource refresh -parallelism=50
+real	0m0.474s
+user	0m1.583s
+sys	0m0.398s

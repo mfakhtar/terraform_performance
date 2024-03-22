@@ -1,0 +1,11 @@
+Folder Name,Init Real Time (s),Init User Time (s),Init Sys Time (s),Plan Real Time (s),Plan User Time (s),Plan Sys Time (s),Apply Real Time (s),Apply User Time (s),Apply Sys Time (s),Refresh Real Time (s),Refresh User Time (s),Refresh Sys Time (s)
+500resource,0m1.220s,0m0.462s,0m0.170s,0m2.471s,0m2.929s,0m0.847s,0m8.756s,0m11.478s,0m2.094s,0m2.005s,0m3.671s,0m1.063s,
+1000resource,0m1.213s,0m0.544s,0m0.185s,0m3.776s,0m5.452s,0m1.499s,0m27.191s,0m35.614s,0m4.519s,0m3.982s,0m7.196s,0m1.824s,
+1500resource,0m1.466s,0m0.675s,0m0.253s,0m5.536s,0m8.519s,0m2.205s,0m52.152s,1m13.196s,0m7.813s,0m5.742s,0m11.044s,0m2.867s,
+2000resource,0m1.431s,0m0.772s,0m0.274s,0m7.382s,0m11.716s,0m3.011s,1m29.153s,2m6.013s,0m10.965s,0m8.172s,0m15.515s,0m3.837s,
+2500resource,0m1.563s,0m0.898s,0m0.334s,0m9.821s,0m15.337s,0m3.811s,2m16.648s,3m12.913s,0m16.159s,0m11.835s,0m20.358s,0m4.678s,
+3000resource,0m1.719s,0m1.000s,0m0.382s,0m12.170s,0m19.149s,0m4.468s,3m13.332s,4m37.577s,0m21.334s,0m14.253s,0m25.936s,0m5.514s,
+3500resource,0m2.220s,0m1.455s,0m0.466s,0m16.251s,0m24.691s,0m5.227s,4m23.284s,6m18.852s,0m28.573s,0m18.715s,0m33.071s,0m6.734s,
+4000resource,0m2.200s,0m1.358s,0m0.487s,0m18.082s,0m28.079s,0m6.323s,5m37.489s,8m9.242s,0m33.269s,0m22.161s,0m39.617s,0m7.590s,
+4500resource,0m5.462s,0m1.475s,0m0.572s,0m21.665s,0m33.316s,0m7.171s,7m2.047s,10m15.316s,0m43.040s,0m26.527s,0m46.149s,0m8.133s,
+5000resource,0m2.487s,0m1.656s,0m0.602s,0m25.330s,0m38.920s,0m7.721s,8m39.665s,12m39.744s,0m48.671s,0m30.765s,0m53.458s,0m9.517s,

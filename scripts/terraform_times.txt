@@ -1,0 +1,16 @@
+500resource init
+real	0m0.696s
+user	0m0.164s
+sys	0m0.070s
+500resource plan -parallelism=20
+real	0m0.691s
+user	0m1.294s
+sys	0m0.305s
+500resource apply -parallelism=20
+real	0m5.138s
+user	0m5.891s
+sys	0m0.899s
+500resource refresh -parallelism=20
+real	0m0.486s
+user	0m1.544s
+sys	0m0.396s

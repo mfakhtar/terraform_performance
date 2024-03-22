@@ -1,0 +1,3 @@
+Folder Name,Init Real Time (s),Init User Time (s),Init Sys Time (s),Plan Real Time (s),Plan User Time (s),Plan Sys Time (s),Apply Real Time (s),Apply User Time (s),Apply Sys Time (s),Refresh Real Time (s),Refresh User Time (s),Refresh Sys Time (s)
+for_each,0m0.215s,0m0.213s,0m0.038s,0m0.141s,0m0.128s,0m0.031s,0m0.144s,0m0.126s,0m0.028s,0m0.142s,0m0.126s,0m0.033s,
+for_each,0m0.186s,0m0.044s,0m0.015s,0m4.604s,0m18.517s,0m1.104s,0m27.157s,0m54.947s,0m4.065s,0m4.687s,0m20.319s,0m1.222s,

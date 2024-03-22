@@ -1,0 +1,35 @@
+module "null_module1" {
+    source = "./null_module"
+}
+
+module "null_module2" {
+    source = "./null_module"
+}
+
+module "null_module3" {
+    source = "./null_module"
+}
+module "null_module4" {
+    source = "./null_module"
+}
+module "null_module5" {
+    source = "./null_module"
+}
+
+module "null_module6" {
+    source = "./null_module"
+}
+
+module "null_module7" {
+    source = "./null_module"
+}
+
+module "null_module8" {
+    source = "./null_module"
+}
+module "null_module9" {
+    source = "./null_module"
+}
+module "null_module10" {
+    source = "./null_module"
+}

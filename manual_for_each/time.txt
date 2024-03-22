@@ -1,0 +1,19 @@
+1000 resource
+terraform plan  5.51s user 0.50s system 350% cpu 1.712 total	
+terraform apply --auto-approve  16.41s user 1.91s system 187% cpu 9.775 total
+
+1500 resource
+terraform plan  17.20s user 1.66s system 270% cpu 6.986 total
+terraform apply --auto-approve  62.14s user 5.43s system 211% cpu 31.916 total
+
+2000 resource
+terraform plan  29.01s user 2.29s system 287% cpu 10.902 total
+terraform apply --auto-approve  112.19s user 8.72s system 236% cpu 51.053 total
+
+
+
+terraform plan  29.58s user 2.36s system 286% cpu 11.138 total
+terraform apply --auto-approve  112.89s user 8.66s system 221% cpu 54.835 total
+
+
+terraform apply --auto-approve  113.58s user 9.36s system 287% cpu 42.764 total
